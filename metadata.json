@@ -1,0 +1,6 @@
+{
+  "name": "Scene Shadow: Harry Potter",
+  "description": "Movie-clip shadowing English learning app for Harry Potter and the Philosopher's stone. Practice listening, rhythmic stress, and speaking with authentic film audio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
